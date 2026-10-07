@@ -1,5 +1,5 @@
         let currentSchedule = {};       
-        const allPeople = ['許敦智', '王金誠', '王瑞發', '彭偉慎', '劉暐丞'];
+        const allPeople = ['許敦智', '王金誠', '王瑞發', '彭偉慎', '劉暐丞', '黃金暄'];
 		
         let disabledPeople = new Set();
         let unavailableDays = {};
@@ -14,7 +14,7 @@ const personColors = {
     '王瑞發': '#00246B',   // Navy blue
     '彭偉慎': '#8AAAE5',   // Light blue
     '劉暐丞': '#F9E795',   // Light yellow
- 
+    '黃金暄': '#8E44AD',
 };
 
 
